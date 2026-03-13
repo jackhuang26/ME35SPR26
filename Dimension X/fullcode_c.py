@@ -9,7 +9,7 @@ always travels straight then turns, giving a consistent final orientation.
 While the robot is idle (waiting for navigation goals to complete), it spins
 180 degrees, takes a picture to identify the character, and spins back.
 
-Authors: Rafae Shafi and Jack Huang
+Authors: Davide Mirza, Jack Huang, Tyler Chiasson
 '''
 
 # start with Create3 docked, with the BACK of dock 0.5 m from (0,0), it will turn around when it undocks
