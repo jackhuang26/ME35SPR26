@@ -6,11 +6,11 @@ import time
 
 # Airtable config
 
-BASE_ID = "appORGiY5zlUCSNcE"
-TABLE_ID = "tblIGj6C7MZ3aonnI"
-RECORD_ID = "recqHceBrlUHvdOJs"
+BASE_ID = "based_id"
+TABLE_ID = "table_id"
+RECORD_ID = "record_id"
 
-TOKEN = "patubif58PYYOJxFO.b6bccd62347df1bc5ed36fa1d19832fdee61e296aa878ba9a6d261f21389f2db"
+TOKEN = "token"
 
 URL = f"https://api.airtable.com/v0/{BASE_ID}/{TABLE_ID}/{RECORD_ID}"
 
